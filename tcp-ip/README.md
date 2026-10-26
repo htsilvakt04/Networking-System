@@ -11,4 +11,4 @@ python autograder.py all
 <img src="./images/tcp-grade.png" alt="TCP grade" width="600">
 
 ### Implementation file:
-[student_socket.py](./tcp-ip/ext/cs168p2/student_socket.py)
+[student_socket.py](./ext/cs168p2/student_socket.py)
