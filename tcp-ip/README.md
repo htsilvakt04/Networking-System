@@ -10,5 +10,7 @@ python autograder.py all
 ### Result:
 <img src="./images/tcp-grade.png" alt="TCP grade" width="600">
 
+### Client-Server visualization flow:
+<img src="./images/syn-flow.png" alt="TCP flow" width="600">
 ### Implementation file:
 [student_socket.py](./ext/cs168p2/student_socket.py)
