@@ -13,4 +13,5 @@ python autograder.py all
 ### Client-Server visualization flow:
 <img src="./images/syn-flow.png" alt="TCP flow" width="600">
 ### Implementation file:
-[student_socket.py](./ext/cs168p2/student_socket.py)
+
+[student_socket.py](./tcp-ip/ext/cs168p2/student_socket.py)
